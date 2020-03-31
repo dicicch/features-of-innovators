@@ -1,6 +1,18 @@
-# Data Science Project Template
+Project Template adapted from [Cookiecutter Data Science](https://drivendata.github.io/cookiecutter-data-science/)
 
-Template adapted from [Cookiecutter Data Science](https://drivendata.github.io/cookiecutter-data-science/)
+# Penn State Public Policy
+#### Estimating the Upper Bound of United States Innovative Capacity
+
+## Team Members:
+
+* Aniket Gupta
+* Cong Ma
+* Franklin Peng
+* Hai Huang
+* Hunter S. DiCicco
+* Xiao Yao
+* Zack Vliet
+
 
 
 
@@ -22,7 +34,7 @@ Following this directory structure
     |   |--models                         <- Trained model files that can be read into R or Python
     |
     |--required
-    |   |--requirements.txt               <- The required libraries for reproducing the Python environment
+    |   |--requirements.txt               <- The required libraries for reproducing the project environment through PIP
     |   |--requirements.r                 <- The required libraries for reproducing the R environment
     |
     |
